@@ -15,5 +15,5 @@ public:
         
         fun(root, 0);
         return res;
-    };
+    }
 };
